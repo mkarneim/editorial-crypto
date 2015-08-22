@@ -10,7 +10,11 @@ Encrypts the contents of the current document with a user-defined password, usin
 
 To decrypt an encrypted document please use the corresponding "Decrypt Document" workflow. 
 
+EncryptDocument can be installed from the [Editorial Workflows page](http://www.editorial-workflows.com/workflow/5817532195799040/mZ4VF6bVJGc).
+
 ## DecryptDocument
 Decrypts the contents of the current document with a user-defined password, using AES-256 and Base64.
 
 To encrypt a document please use the corresponding "Encrypt Document" workflow.
+
+DecryptDocument can be installed from the [Editorial Workflows page](http://www.editorial-workflows.com/workflow/5774554337116160/tL0TaMd64i4).
