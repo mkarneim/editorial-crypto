@@ -3,7 +3,8 @@ Encryption and Decryption of Editorial Documents
 
 This repository contains two Python scripts that can be installed as [Editorial](http://omz-software.com/editorial/) workflows.
 
-Both scripts make use of the [Python AES implementation](http://brandon.sternefamily.net/wp-content/uploads/2007/06/pyAES.txt) from Brandon Sterne, which is licensed under the MIT license (see http://brandon.sternefamily.net/files/mit-license.txt).
+Both scripts make use of the [Python AES implementation](http://brandon.sternefamily.net/wp-content/uploads/2007/06/pyAES.txt) from Brandon Sterne, which is licensed under the [MIT license](http://brandon.sternefamily.net/files/mit-license.txt).
+However, all modifications and extensions I made are in the PUBLIC DOMAIN.
 
 ## [EncryptDocument](https://github.com/mkarneim/editorial-crypto/blob/master/EncryptDocument.py)
 Encrypts the contents of the current document with a user-defined password, using AES-256 and Base64. 
