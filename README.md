@@ -1,7 +1,7 @@
 # editorial-crypto
 Encryption and Decryption of Editorial Documents
 
-This repository contains two Python scripts that can be installed as Editorial workflows.
+This repository contains two Python scripts that can be installed as [Editorial](http://omz-software.com/editorial/) workflows.
 
 Both scripts makes use of the Python AES implementation from Brandon Sterne, which is licensed under the MIT license (see http://brandon.sternefamily.net/files/mit-license.txt).
 
